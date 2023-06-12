@@ -1,6 +1,6 @@
 # Bessel-Equivariant-MMF
 
-This is a PyTorch implementation of a rotation equivariant U-Net model for segmentation and classification of deforestation areas as described in our paper:
+This is a PyTorch implementation of a Bessel equivariant model as described in our paper:
 
 https://arxiv.org/abs/2207.12849
 
